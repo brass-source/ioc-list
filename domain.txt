@@ -1,4 +1,5 @@
 maliciousdomain2.com
 maliciousdomain3.com
+maliciousdomain4.com
 malicious-site.biz
 phishing-login.co
